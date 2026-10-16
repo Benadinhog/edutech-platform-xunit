@@ -1,0 +1,14 @@
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\bin\Debug\net10.0\EduTechPlatform.App.exe
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\bin\Debug\net10.0\EduTechPlatform.App.deps.json
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\bin\Debug\net10.0\EduTechPlatform.App.runtimeconfig.json
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\bin\Debug\net10.0\EduTechPlatform.App.dll
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\bin\Debug\net10.0\EduTechPlatform.App.pdb
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\EduTechPlatform.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\EduTechPlatform.App.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\EduTechPlatform.App.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\EduTechPlatform.App.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\EduTechPlatform.App.dll
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\refint\EduTechPlatform.App.dll
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\EduTechPlatform.App.pdb
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\EduTechPlatform.App.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Documentos\UNA\edutech-platform-xunit\EduTechPlatform.App\obj\Debug\net10.0\ref\EduTechPlatform.App.dll
