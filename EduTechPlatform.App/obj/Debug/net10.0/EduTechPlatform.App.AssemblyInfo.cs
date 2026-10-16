@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduTechPlatform.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a8b8b7cb9f7b9d9f2594f4911027c8d20d77a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduTechPlatform.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduTechPlatform.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
